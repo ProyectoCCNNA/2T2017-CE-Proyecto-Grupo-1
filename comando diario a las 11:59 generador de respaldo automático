@@ -1,0 +1,4 @@
+
+--- USA LA LISTA DE COMANDO DIARIAMENTE A LAS 11:59 ---
+Enrutador (config) #kron ocurrencia "Nombre-ocurrencia" a las 23:59 recurrente
+Router (config-kron-occurrence) # policy-list "NombreLista"
